@@ -39,9 +39,6 @@ I'm a Computer Science undergraduate at the University of Colombo School of Comp
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishka-sathyanjana&theme=github_dark" alt="Avishkas's GitHub Stats"/>
-</div>
 <!-- <div>
 <img src="./github-metrics.svg" alt="Metrics"/>
 <img src="./isocalendar.svg" alt="Calendar"/>
