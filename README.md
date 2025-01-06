@@ -50,11 +50,11 @@ I'm a Computer Science undergraduate at the University of Colombo School of Comp
 <img src="./habits.svg" alt="Habits"/>
 </div> -->
 
-<!-- ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={avishka-sathyanjana}&theme={2077})
-![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avishka964&theme=dracula)
-![Most Committed Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avishka964&theme=dracula)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishka964&theme=dracula)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avishka964&theme=dracula&utcOffset=8) -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishka-sathyanjana&theme=2077)
+![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avishka-sathyanjana&theme=2077)
+![Most Committed Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avishka-sathyanjana&theme=2077)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishka-sathyanjana&theme=2077)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avishka-sathyanjana&theme=2077&utcOffset=8)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishka-sathyanjana)
