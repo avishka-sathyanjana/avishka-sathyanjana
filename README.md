@@ -36,10 +36,12 @@ I'm a Computer Science undergraduate at the University of Colombo School of Comp
 - Empathic Communication
 - Adaptive Learning
 - Collaborative Teamwork
-<!-- 
-## 📊 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=avishka964&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishka-sathyanjana&theme=github_dark" alt="Avishkas's GitHub Stats"/>
+</div>
 <!-- <div>
 <img src="./github-metrics.svg" alt="Metrics"/>
 <img src="./isocalendar.svg" alt="Calendar"/>
