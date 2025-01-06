@@ -1,11 +1,22 @@
-# Hi there, I'm Avishka Sathyanjana 👋 
-(Known as "Satha" to friends)
+<div align="center">
+<table>
+<tr>
+<td width="62.5%">
+
+# Hi there, I'm Avishka Sathyanjana 👋 (Known as "Satha" to friends)
 
 [![HitCount](https://hits.dwyl.com/avishka964/avishka964/avishka964.svg?style=flat-square&show=unique)](http://hits.dwyl.com/avishka964/avishka964/avishka964)
 
 ## 👨‍💻 About Me
 I'm a Computer Science undergraduate at the University of Colombo School of Computing (UCSC), passionate about exploring the intersection of human-computer interaction and software development. My research focuses on identifying emotional baselines in a more personalized manner, combining my interests in HCI with practical applications.
 
+</td>
+<td width="37.5%">
+<img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=790b7611u1y5bwwil1s8wa9objsnlz3kqrj23pkgg69oal3m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
+</div>
 ## 🚀 Current Endeavors
 - 💼 Working as a Part-time Software Developer at DevX10
 - 🎓 Final Year Research: Personalizing Emotional Baseline Identification in HCI
