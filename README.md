@@ -4,7 +4,7 @@
 <td width="75%">
 
 # Hi there, I'm Avishka Sathyanjana 👋 
-### (Known as "Satha" to friends)
+### 
 
 [![HitCount](https://hits.dwyl.com/avishka964/avishka964/avishka964.svg?style=flat-square&show=unique)](http://hits.dwyl.com/avishka964/avishka964/avishka964)
 
